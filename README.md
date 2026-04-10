@@ -1,7 +1,4 @@
 # skills-of-algorithm-learning-platform-builder
- 在 GitHub README 里**不能直接写自定义 CSS**，但我们可以用**徽章 + 表情符号 + 区块 + 格式排版**，做出**高级、清爽、有色彩感**的效果，而且完全兼容 GitHub 风格。
-
-我直接给你一套**复制即用、带“色彩感”的 GitHub README 完整版**，你粘贴过去就好看。
 
 ---
 
